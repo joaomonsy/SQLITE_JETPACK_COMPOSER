@@ -4,6 +4,7 @@
     <string name="txtBairro">Bairro: </string>
     <string name="txtCep">CEP: </string>
     <string name="txtEndereco">Endereço: </string>
+    <string name="txtTel">Telefone: </string>
     <string name="btnCadastrar">Cadastrar</string>
     <string name="title">Cadastro</string>
     <string name="title2">Confirmação de resposta</string>

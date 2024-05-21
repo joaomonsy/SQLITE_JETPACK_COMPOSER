@@ -73,6 +73,21 @@
         android:layout_gravity="center_horizontal"
         android:textSize="25dp" />
 
+    <TextView
+        android:id="@+id/txtTel"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        android:text="@string/txtTel"/>
+
+    <EditText
+        android:id="@+id/edtTel"
+        android:layout_width="250dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp" />
+
     <Button
         android:id="@+id/btnCadastrar"
         android:layout_width="wrap_content"
